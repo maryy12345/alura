@@ -3,11 +3,12 @@ body {
 }
 
 #banner {
-    
+
 }
 
 h1 {
-    text-align: center
+    text-align: center;
+    collor: blue;
 }
 
 p {
