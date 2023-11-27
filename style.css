@@ -37,6 +37,9 @@ em strong {
  h2 {
     text-align: center;
  }
+ ul {
+    display: inline-block;
+ }
 
  .imagembeneficios {
     width: 50%;
